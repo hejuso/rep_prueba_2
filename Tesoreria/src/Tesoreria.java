@@ -21,7 +21,7 @@ public class Tesoreria {
 		//IMPRESION
 		System.out.println("El balance total es: "+balance);
 		
-		
+		//prueba
 		
 		}
 
